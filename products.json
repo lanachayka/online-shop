@@ -26,5 +26,12 @@
         "image": "viking.svg",
         "description": "Viking sticker",
         "price": 34.99
+    },
+    {
+        "id": "5",
+        "title": "Fox",
+        "image": "foxs.jpg",
+        "description": "Fox sticker",
+        "price": 19.99
     }
 ]

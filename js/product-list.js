@@ -88,3 +88,5 @@ class ProductList {
     window.showAlert('Product added to cart');
   }
 }
+
+
